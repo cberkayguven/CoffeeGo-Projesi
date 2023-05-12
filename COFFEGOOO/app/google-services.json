@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749738113513",
+    "project_id": "coffegooo-dd196",
+    "storage_bucket": "coffegooo-dd196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749738113513:android:6411077f0b9ef006bef378",
+        "android_client_info": {
+          "package_name": "com.berkayguven.coffegooo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749738113513-rvjtc09r5sginjjg3acqnpe3csosj886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berkayguven.coffegooo",
+            "certificate_hash": "20ed320e2a75fbede2671b08569fc79d1c66cee9"
+          }
+        },
+        {
+          "client_id": "749738113513-29ua5l47fmh0em6aha8d28p3aiql1rvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs_FV9O5KflP3pK-mIlNQz6R65fvR8bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749738113513-29ua5l47fmh0em6aha8d28p3aiql1rvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
